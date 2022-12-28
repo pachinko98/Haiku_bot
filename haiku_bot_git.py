@@ -1,3 +1,4 @@
+#REMEMBER TO PUT YOUR API KEYS BEFORE RUNNING
 import openai
 import json
 import requests
