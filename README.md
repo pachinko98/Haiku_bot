@@ -4,8 +4,11 @@ twitter bot that posts haikus about current tech news
 ## How it works
 
 This bot makes use of the following APIs to work:
+
 Twitter API
+
 OpenAI API
+
 News API
 
 1. It requests the headline, brief description, and article link of a current news article on tech from News API
